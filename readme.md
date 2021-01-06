@@ -1,12 +1,16 @@
 ![alt text](https://github.com/jubertroldan/hr_job_change_ds/blob/master/geoffroy-hauwen-PSjp3kBOu9E-unsplash.jpg)
 
-# Introduction
+# Exploring HR Job Change for Data Scientist
+
+## Introduction
 
 There is a high demand for data scientist across multiple different industries. with this demand, there are a lot of movement also that may potentially occur during this period. this dataset can provide a glimpse of what is happening on the 
 data scientist field which I spent some time to understand as part of the nano degree i am taking up. 
 
 below are the highlights of the process.
 
+
+## Content 
 
 1. Pick a Dataset:
 https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists/tasks?taskId=3015
@@ -37,6 +41,7 @@ https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists/tasks
 6. Visualize - Plotting the Coefficients
 
 
-Conclusion - The analysis provided here are just example to showcase a baseline but not to solve the problem. 
+## Conclusion 
+The analysis provided here are just example to showcase a baseline but not to solve the problem. 
 if time permits - further analysis will be done to meet this requirement.
 
