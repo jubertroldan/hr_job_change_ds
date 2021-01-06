@@ -41,7 +41,38 @@ https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists/tasks
 6. Visualize - Plotting the Coefficients
 
 
-## Conclusion 
+## Conclusion/ Summary
 The analysis provided here are just example to showcase a baseline but not to solve the problem. 
 if time permits - further analysis will be done to meet this requirement.
+
+blog link here: https://jubertroldan.medium.com/exploring-the-data-hr-job-change-for-data-scientist-b7ee0fc6edfc
+
+
+## Appendix / Libraries used
+
+Libraires Used [pandas, pandas_profiling, matplotlib, sklearn] <br>
+
+import numpy as np  <br>
+import pandas as pd  <br>
+import matplotlib.pyplot as plt  <br>
+from pandas_profiling import ProfileReport  <br>
+
+from sklearn.preprocessing import StandardScaler, OneHotEncoder  <br>
+from sklearn.model_selection import train_test_split  <br>
+from sklearn.compose import ColumnTransformer  <br>
+from sklearn.pipeline import Pipeline  <br>
+
+from sklearn.ensemble import RandomForestClassifier  <br>
+from sklearn.linear_model  import LogisticRegression  <br>
+
+## Acknowledgements
+thank you for udacity for this project exercise opportunity! 
+Thank you uplash 
+https://unsplash.com/photos/PSjp3kBOu9E?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+The data is available on kaggle with the link below: 
+https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists/tasks?taskId=3015
+
+
+
 
