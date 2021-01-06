@@ -1,12 +1,6 @@
-![alt text](https://github.com/jubertroldan/hr_job_change_ds/geoffroy-hauwen-PSjp3kBOu9E-unsplash.jpg?raw=true)
+![alt text](https://github.com/jubertroldan/hr_job_change_ds/blob/master/geoffroy-hauwen-PSjp3kBOu9E-unsplash.jpg)
 
-## Introduction
-## topic point 1
-## topic point 2
-## topic point 3
-## conclusion - end with call to action
-
-Introduction
+# Introduction
 
 There is a high demand for data scientist across multiple different industries. with this demand, there are a lot of movement also that may potentially occur during this period. this dataset can provide a glimpse of what is happening on the 
 data scientist field which I spent some time to understand as part of the nano degree i am taking up. 
